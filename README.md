@@ -1,2 +1,2 @@
 # test-CI-CD-hello
-Curso SocialOpLesk: Test CI/CD
+Curso SocialOpLesk: Test CI/CD ⚡
